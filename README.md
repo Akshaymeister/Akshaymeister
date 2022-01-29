@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Nigam</h1>
-<h3 align="center">A passionate Learner who have a keen interest in AOSP and Web Development</h3>
+<h3 align="center">A passionate Learner who has a keen interest in AOSP and Web Development</h3>
 
 - 🌱 I’m currently learning **Data Structures And Algorithm**
 
